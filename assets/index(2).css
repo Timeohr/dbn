@@ -1,0 +1,26 @@
+.grille {
+    display: grid;
+    place-content: center;
+}
+
+.cadre-adresse-entreprise {
+    border: 2px solid;
+    width: 600px;
+    text-align: center;
+}
+
+.college {
+    text-align: center;
+}
+
+#image-entrepot {
+    width: 20%;
+    height: 20%;
+}
+
+#pied-de-page {
+    font-size: 13px;
+}
+.accueil {
+    margin-left: 1400px;
+}

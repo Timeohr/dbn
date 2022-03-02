@@ -1,0 +1,65 @@
+.grille {
+    display: grid;
+    place-content: center;
+}
+
+.grille-droite {
+    display: grid;
+    place-content: right;
+}
+
+.grille-gauche {
+    display: grid;
+    place-content: left;
+}
+
+.titre {
+    width: 600px;
+    border: 2px solid;
+    text-align: center;
+
+}
+
+.border-radius-activite {
+    border-radius: 30px;
+    width: 650px;
+    border: 2px solid;
+    text-align: justify;
+    height: 490px;
+    padding: 10px;
+
+}
+
+.border-radius {
+    border-radius: 30px;
+    width: 500px;
+    border: 2px solid;
+    text-align: justify;
+    padding: 10px;
+
+}
+
+
+.colonnes {
+    display: flex;
+    flex-direction: column;
+    flex-basis: 100%;
+    flex: 1;
+}
+
+.lignes {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.aligne {
+    text-align: justify;
+    margin-left: 20px;
+}
+
+#image-usine {
+    width: 7.5%;
+    height: 15%;
+}

@@ -1,0 +1,28 @@
+.grille {
+    display: grid;
+    place-content: center;
+}
+
+
+.grille-gauche {
+    display: grid;
+    place-content: left;
+}
+.cadre-adresse-entreprise {
+    border: 2px solid;
+    width: 600px;
+    text-align: center;
+}
+.cadre-adresse-entreprise- {
+    border: 2px solid;
+    width: 850px;
+    padding: 20px;
+    border-radius: 20px;
+}
+#image-crayon{
+    width: 8.5%;
+    height: 16%;
+  }
+.p{
+    text-indent: 5em;
+}
